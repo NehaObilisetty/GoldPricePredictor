@@ -9,7 +9,7 @@ matplotlib
 seaborn
 sciklearn
 
-# processes involved:
+# Procedure
 Data Loading, Data Exploration, Data Visualization, Data Preprocessing, Model Training, Model Training
 
 # Results
